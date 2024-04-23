@@ -1,5 +1,11 @@
-### Hi there 👋
+# David Pustka
+## Passionate web developer currently learning go and htmx
+## I also use 
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,rust,php,svelte,react,nextjs,docker,neovim,mysql,mongodb,postgres)](https://skillicons.dev)
+...and many more
+
+## Currently reading [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Edition/dp/013409266X "awsome book")
 <!--
 **dr0th3r/dr0th3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
