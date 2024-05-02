@@ -2,7 +2,7 @@
 Passionate web developer currently learning [go](https://go.dev/) and [htmx](https://htmx.org/)  
 
 I also use   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,rust,php,svelte,react,nextjs,docker,neovim,mysql,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,c,rust,php,java,svelte,react,nextjs,docker,neovim,mysql,mongodb,postgres)](https://skillicons.dev)
 
 Currently reading [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Edition/dp/013409266X "awsome book")
 <!--
