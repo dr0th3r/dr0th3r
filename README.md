@@ -2,7 +2,7 @@
 Passionate web developer learning all about computers and maths.
 
 I also use   
-[![My Skills](https://skillicons.dev/icons?i=html.css,js,ts,nodejs,express,vue,react,svelte,php,git,docker,postgres,mysql,firebase,rust,go,cs,net,neovim,linux,nix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,vue,react,svelte,php,git,docker,postgres,mysql,firebase,rust,go,cs,net,neovim,linux,nix)](https://skillicons.dev)
 
 Currently reading [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Edition/dp/013409266X "awsome book")
 <!--
